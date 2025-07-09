@@ -88,7 +88,7 @@ const PersonalitySection: React.FC = () => {
       
       <div className="mobile-container relative z-10">
         {/* Main Content with Profile Photo - Mobile Responsive */}
-        <div className="grid lg:grid-cols-2 gap-0 items-center justify-center">
+        <div className="grid lg:grid-cols-2 gap-8 items-center justify-center">
           {/* Text Content */}
           <div className="relative order-2 lg:order-1">
             <div className="bg-white/5 backdrop-blur-md rounded-3xl p-6 sm:p-8 md:p-12 border border-white/20 shadow-2xl">
