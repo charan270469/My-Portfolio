@@ -29,43 +29,6 @@ This portfolio highlights Charan's work as a UI/UX designer, developer, and bran
 
 ---
 
-## 📦 Setup & Development
-
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/your-username/your-portfolio.git
-   cd your-portfolio
-   ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-3. **Start the dev server:**
-   ```bash
-   npm run dev
-   ```
-   The site will be available at `http://localhost:5173` (or as shown in your terminal).
-
----
-
-## 🏗️ Build & Deploy
-
-1. **Build for production:**
-   ```bash
-   npm run build
-   ```
-   The optimized site will be in the `dist/` folder.
-
-2. **Preview the production build:**
-   ```bash
-   npm run preview
-   ```
-
-3. **Deploy:**
-   - Upload the contents of `dist/` to your static hosting provider (Vercel, Netlify, GitHub Pages, etc).
-
----
-
 ## 🔍 SEO & Best Practices
 - Meta tags and Open Graph tags are managed with `react-helmet-async`.
 - Add a `sitemap.xml` and `robots.txt` for better search engine indexing.
@@ -75,7 +38,7 @@ This portfolio highlights Charan's work as a UI/UX designer, developer, and bran
 ---
 
 ## 🙏 Credits
-- Design & Development: [Charan](https://github.com/your-username)
+- Design & Development: [Charan](https://github.com/charan270469)
 - Icons: [Lucide](https://lucide.dev/)
 - Fonts & Assets: See `/src/Assets/`
 
