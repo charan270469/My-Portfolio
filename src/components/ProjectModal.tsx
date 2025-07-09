@@ -111,6 +111,20 @@ const ProjectModal: React.FC<ProjectModalProps> = ({ project, onClose }) => {
               </>
             )}
           </div>
+          {/* View Project Button for Dev Projects (Mobile) */}
+          {project.externalUrl && (
+            <div className="w-full flex justify-center my-4">
+              <a
+                href={project.externalUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-4/5 py-4 text-lg font-bold rounded-2xl bg-gradient-to-r from-pink-400 via-yellow-200 to-purple-300 text-black shadow-lg hover:scale-105 transition-all duration-300 text-center border-2 border-white/60 outline outline-2 outline-space-200"
+                style={{ boxShadow: '0 0 8px 2px #fff4, 0 0 16px 4px #f0f1, 0 0 32px 8px #ff01' }}
+              >
+                🚀 View Project
+              </a>
+            </div>
+          )}
           {/* Project Info */}
           <div className="w-full px-4 pb-8">
             <div className="flex items-center justify-between mt-2 mb-4">
