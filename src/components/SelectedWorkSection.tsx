@@ -217,7 +217,7 @@ const SelectedWorkSection: React.FC = () => {
       image: PlantVerseImage,
       images: [PlantVerseImage],
       isExternal: true,
-      externalUrl: 'https://huggingface.co/spaces/Charan2369/Plant_Verse'
+      externalUrl: 'https://huggingface.co/spaces/Charan2369/Plantverse'
     },
     {
       id: 6,
