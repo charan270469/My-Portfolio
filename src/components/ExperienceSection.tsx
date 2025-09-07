@@ -18,7 +18,6 @@ const ExperienceSection: React.FC = () => {
       position: 'AI Developer Intern',
       duration: 'May 2025 – Present',
       skills: ['Python', 'ML', 'Data Preprocessing'],
-      current: true,
       icon: 'fas fa-robot',
       color: 'from-purple-500 to-purple-600',
       bgColor: 'bg-purple-500/20'
