@@ -16,7 +16,7 @@ const ExperienceSection: React.FC = () => {
     {
       company: 'VISWAM.AI',
       position: 'AI Developer Intern',
-      duration: 'May 2025 – Present',
+      duration: 'May – Aug 2025',
       skills: ['Python', 'ML', 'Data Preprocessing'],
       icon: 'fas fa-robot',
       color: 'from-purple-500 to-purple-600',
@@ -25,7 +25,7 @@ const ExperienceSection: React.FC = () => {
     {
       company: 'Bombay Tribe + Social Toli',
       position: 'Graphic Design Intern',
-      duration: 'Feb – May 2025',
+      duration: 'Feb – Sept 2025',
       skills: ['Canva', 'Branding', 'Tshirt Design'],
       icon: 'fas fa-tshirt',
       color: 'from-pink-500 to-pink-600',
